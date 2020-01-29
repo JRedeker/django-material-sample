@@ -132,4 +132,4 @@ dmypy.json
 node_modules
 
 # static collection
-static
+# static

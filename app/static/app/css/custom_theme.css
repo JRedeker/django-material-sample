@@ -1,0 +1,17 @@
+/* see https://material.io/design/color/the-color-system.html#tools-for-picking-colors */
+
+:root {
+    --mdc-theme-primary: #689f38;
+    --mdc-theme-primary-light: #99d066;
+    --mdc-theme-primary-dark: #387002;
+    --mdc-theme-secondary: #6a1b9a;
+    --mdc-theme-secondary-light: #9c4dcc;
+    --mdc-theme-secondary-dark: #38006b;
+    -mdc-theme-background: #fff;
+    --mdc-theme-surface: #fff;
+    --mdc-theme-error: #b00020;
+    --mdc-theme-on-primary: #fff;
+    --mdc-theme-on-secondary: #fff;
+    --mdc-theme-on-surface: #000;
+    --mdc-theme-on-error: #fff;
+}
